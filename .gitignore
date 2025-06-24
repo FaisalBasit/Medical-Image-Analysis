@@ -1,0 +1,5 @@
+/.env
+/sample MRI images
+/uploads
+/venv
+/__pycache__
