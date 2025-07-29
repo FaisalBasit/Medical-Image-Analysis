@@ -1,3 +1,5 @@
+openai-agents
+
 huggingface_hub
 
 # Core Web
